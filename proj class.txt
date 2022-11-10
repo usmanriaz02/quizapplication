@@ -1,0 +1,38 @@
+class Quiz:
+    def __init__(self):
+        self.q_no=0
+        self.display_title()
+        self.display_question()
+        self.opt_selected=IntVar()
+        self.opts=self.radio_buttons()
+        self.display_options()
+        self.buttons()
+        self.data_size=len(question)
+        self.correct=0
+
+
+    def display_result(self):
+	pass
+
+    def check_ans(self, q_no):
+	pass        
+
+    def next_btn(self):
+        	pass
+
+    def buttons(self):
+	pass
+
+    
+    def display_options(self):
+	pass
+
+    def display_question(self):
+	pass        
+
+    def display_title(self):
+	pass        
+
+    
+    def radio_buttons(self):
+	pass

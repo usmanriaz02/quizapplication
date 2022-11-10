@@ -1,0 +1,81 @@
+{
+  "question": [
+    "Q1 What is part of a database that holds only one type of information?",
+    "Q2 In which decade with the first transatlantic radio broadcast occur?",
+    "Q3 .MOV' extension refers usually to what kind of file?",
+    "Q4. Changing language of 1's and 0's to normal characters is called..",
+    "Q5 How many bits is a byte?",
+    "Q6 Which part of a computer performs arithmetic calculations?",
+    "Q7 Fifth generation digital computer will be..",
+    "Q8 Speed of a processor is measured in..?",
+    "Q9 Which data=type is immutable in Python?",
+    "Q10 Which of the following is not a web developement language?"
+  ],
+  "answer": [
+    2,
+    4,
+    2,
+    3,
+    2,
+    3,
+    1,
+    1,
+    3,
+    2
+    
+  ],
+  "options": [
+
+    ["Report",
+      "Field",
+      "Record",
+      "File"
+    ],
+    ["1850s",
+      "1860s",
+      "1870s",
+      "1900s"
+    ],
+    ["Image file",
+      "Animation/movie file",
+      " Audio file",
+      "MS Office document"
+    ],
+    ["Highlight",
+      "Clip art",
+      "Decoding",
+      "Executing"
+    ],
+    ["4",
+      "8",
+      "16",
+      "32"
+    ],
+    ["ICS",
+     "Clock",
+     "ALU",
+     "CU"
+    ],
+    ["Artificial intelligence",
+      "Extremely low cost",
+       "Very expensive",
+       "Versatility"
+    ],
+    ["Gigahertz",
+      "Baud",
+      "BPS",
+      "Km/h"	
+
+    ],
+    ["Lists",
+      "Sets",
+      "Tuples",
+      "Dictionaries"
+    ],
+    ["HTML",
+      "Swift",
+      "CSS",
+      "JavaScript"
+    ]
+  ]
+}  
